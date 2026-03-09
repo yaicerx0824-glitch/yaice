@@ -2,7 +2,7 @@ package utils
 
 import (
 	"errors"
-	"github.com/yaice-rx/yaice/logger"
+	"github.com/yaicerx0824-glitch/yaice/logger"
 	"go.uber.org/zap"
 	"strconv"
 	"sync"

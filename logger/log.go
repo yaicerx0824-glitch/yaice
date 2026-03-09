@@ -2,7 +2,7 @@ package logger
 
 import (
 	"fmt"
-	"github.com/yaice-rx/yaice/config"
+	"github.com/yaicerx0824-glitch/yaice/config"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
