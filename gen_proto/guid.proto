@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package guid;
+
+option go_package = "../guid";
+
+service High32Allocator {
+  rpc Allocate(AllocateRequest) returns (AllocateResponse);
+}
+
+message AllocateRequest {
+  string project = 1;
+  string env = 2;
+}
+
+message AllocateResponse {
+  string project = 1;
+  string env = 2;
+  uint32 value = 3;
+}
