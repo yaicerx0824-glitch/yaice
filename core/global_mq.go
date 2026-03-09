@@ -2,8 +2,8 @@ package core
 
 import (
 	"context"
-	"github.com/yaice-rx/yaice/cache"
-	"github.com/yaice-rx/yaice/logger"
+	"github.com/yaicerx0824-glitch/yaice/cache"
+	"github.com/yaicerx0824-glitch/yaice/logger"
 	"go.uber.org/zap"
 	"sync"
 	"sync/atomic"

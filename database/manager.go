@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yaice-rx/yaice/config"
-	"github.com/yaice-rx/yaice/logger"
+	"github.com/yaicerx0824-glitch/yaice/config"
+	"github.com/yaicerx0824-glitch/yaice/logger"
 	"go.mongodb.org/mongo-driver/v2/mongo"
 	"go.mongodb.org/mongo-driver/v2/mongo/options"
 	"go.uber.org/zap"

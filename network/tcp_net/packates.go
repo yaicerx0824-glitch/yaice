@@ -3,7 +3,7 @@ package tcp_net
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/yaice-rx/yaice/core"
+	"github.com/yaicerx0824-glitch/yaice/core"
 )
 
 const (

@@ -9,9 +9,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yaice-rx/yaice/config"
-	"github.com/yaice-rx/yaice/core"
-	"github.com/yaice-rx/yaice/logger"
+	"github.com/yaicerx0824-glitch/yaice/config"
+	"github.com/yaicerx0824-glitch/yaice/core"
+	"github.com/yaicerx0824-glitch/yaice/logger"
 	"go.uber.org/zap"
 )
 

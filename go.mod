@@ -1,4 +1,4 @@
-module github.com/yaice-rx/yaice
+module github.com/yaicerx0824-glitch/yaice
 
 go 1.24.0
 

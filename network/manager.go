@@ -6,11 +6,11 @@ import (
 	"go.uber.org/zap"
 	"sync"
 
-	"github.com/yaice-rx/yaice/config"
-	"github.com/yaice-rx/yaice/core"
-	"github.com/yaice-rx/yaice/logger"
-	"github.com/yaice-rx/yaice/network/http_net"
-	"github.com/yaice-rx/yaice/network/tcp_net"
+	"github.com/yaicerx0824-glitch/yaice/config"
+	"github.com/yaicerx0824-glitch/yaice/core"
+	"github.com/yaicerx0824-glitch/yaice/logger"
+	"github.com/yaicerx0824-glitch/yaice/network/http_net"
+	"github.com/yaicerx0824-glitch/yaice/network/tcp_net"
 )
 
 const (
